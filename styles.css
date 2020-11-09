@@ -1,0 +1,21 @@
+body {
+    width: auto;
+    margin: 0 auto;
+    background-image: url("assets/topography.png");
+    padding: 0 10%;
+    
+  }
+#navbar {background-color: #333333;
+    text-align: right;
+    margin: 5px 0px;}
+        img {
+            display: block;
+            margin: 0px 5px;
+          }
+
+a, .subtitle {color: #ff0099;}
+.subtitle {font-size: larger;}
+        
+p {font-family: 'Courier Prime', monospace;
+   text-align: center;}
+
